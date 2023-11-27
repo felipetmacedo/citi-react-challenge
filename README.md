@@ -39,20 +39,15 @@
 
 <br/> 
 
-## About Boilerplate
+## About Challenge
 <br/>
 
-  Esse boilerplate foi criado durante o processo seletivo de 2022 do CITi e ele tem o intuito de aproximar as pessoas aspirantes à realidade
-  dentro do CITi. O boilerplate será usado durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnincamente as pessoas que entrarão no CITi.
-  O template foi criado em um monorepo e está estruturado em cliente e servidor.
+    Esse desafio foi criado durante o processo seletivo de 2024 do CITi e ele tem o intuito de aproximar as pessoas aspirantes à realidade
+    dentro do CITi. O boilerplate será usado durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnicamente as pessoas que entrarão no CITi.
 
-<p align= "center">
-    <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
-</p>
-
-O server tem uma estrutura base de código para a construção de uma API. Já o cliente, contém uma outra estrutura base de código para a construção de todo o frontend da aplicação. 
-Ainda no server, tem uma abstração construída para facilitar o contato de pessoas aspirantes com a construção de uma API.
-
+  <p align= "center">
+      <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
+  </p>
 
 <br/> 
 
@@ -118,7 +113,6 @@ Ainda no server, tem uma abstração construída para facilitar o contato de pes
 
 <br/>
 
-- [Alex Damascena](https://github.com/apfdamascena), líder de desenvolvimento em 2022.1 - apfd@cin.ufpe.br
-- [Tiago Lima](https://github.com/titi-lima), líder de desenvolvimento em 2023.2 - tmsl@cin.ufpe.br
+- [Felipe Torres](https://github.com/ftm2-cin), Fullstack Developer 2023.2 - ftm2@cin.ufpe.br
 
 <br/>
