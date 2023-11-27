@@ -26,7 +26,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabela de Conteúdo</h2></summary>
   <ol>
-    <li><a href="#about-boilerplate">About Boilerplate</a></li>
+    <li><a href="#about-boilerplate">About Challenge</a></li>
       <ul>
         <li><a href="#job">Challenge</a></li></li>
       </ul>
@@ -55,12 +55,11 @@
 ## Challenge
 Sua missão é construir uma página web em React que reproduza fielmente o design disponível no seguinte link do Figma: 
 <a href="https://www.figma.com/file/BklrSFl01OCseYDol7tDu1/Desafio-React--%E2%9A%9B%EF%B8%8E---CITi?type=design&mode=design&t=3YKy0IXKwA9Tdx4P-1" target="_blank">
-    Desafio React - CITi
+    Desafio React ⚛︎ - CITi
 </a>
 
 O design fornecido no Figma representa a estrutura visual da página que queremos que você construa. Certifique-se de atentar para os detalhes visuais, como cores, fontes, espaçamento e posicionamento dos elementos.
-<br/> 
-
+<br margin-bottom="10px"/> 
 
 
 ## Client
