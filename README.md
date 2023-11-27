@@ -62,7 +62,7 @@ O design fornecido no Figma representa a estrutura visual da página que queremo
 
 ### Step by Step:
 
-1. Faça um fork deste repositório.
+1. Curta o repositório 💚 e faça um fork dele.
 2. Clone o repositório forked para o seu ambiente local.
 3. Utilize React para construir a página conforme o design do Figma.
 4. Mantenha a estrutura do projeto organizada.
