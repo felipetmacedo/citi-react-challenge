@@ -26,9 +26,9 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabela de Conteúdo</h2></summary>
   <ol>
-    <li><a href="#about-boilerplate">About Challenge</a></li>
+    <li><a href="#about-challenge">About Challenge</a></li>
       <ul>
-        <li><a href="#job">Challenge</a></li></li>
+        <li><a href="#challenge">Challenge</a></li></li>
       </ul>
     <li><a href="#client">Client</a></li>
         <ul>
@@ -59,7 +59,9 @@ Sua missão é construir uma página web em React que reproduza fielmente o desi
 </a>
 
 O design fornecido no Figma representa a estrutura visual da página que queremos que você construa. Certifique-se de atentar para os detalhes visuais, como cores, fontes, espaçamento e posicionamento dos elementos.
-<br margin-bottom="10px"/> 
+
+
+<br/> 
 
 
 ## Client
