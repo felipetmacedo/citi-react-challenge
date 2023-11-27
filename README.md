@@ -8,8 +8,8 @@
   <h3 align="center">PTA</h3>
 
   <p align="center">
-  Esse boilerplate foi criado durante o processo seletivo de 2022 do CITi e atualizado em 2023.2 com o intuito de aproximar as pessoas aspirantes à realidade
-  dentro do CITi. O boilerplate será usado durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnincamente as pessoas que entrarão no CITi.
+  Esse boilerplate foi criado durante o processo seletivo de 2023 do CITi e atualizado em 2023.2 com o intuito de aproximar as pessoas aspirantes à realidade
+  dentro do CITi. O boilerplate será usado para o envio de um DESAFIO durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnincamente as pessoas que entrarão no CITi.
     <br />
     <a href="https://github.com/citi-onboarding/pta-boilerplate"><strong>Explore the docs »</strong></a>
     <br />
@@ -31,15 +31,6 @@
     <ul>
         <li><a href="#how-to-install">How To Install</a></li></li>
         <li><a href="#how-to-run">How To Run</a></li></li>
-        <li><a href="#citi-abstraction-documentation">Citi Abstraction Documentation</a></li></li>
-        <ul>
-        <li><a href="#are-values-undefined">Are Values Undefined</a></li></li>
-        <li><a href="#insert-into-database">Insert Into Database</a></li></li>
-        <li><a href="#get-all">Get All</a></li></li>
-        <li><a href="#find-by-id">Find By ID</a></li></li>
-        <li><a href="#delete-value">Delete Value</a></li></li>
-        <li><a href="#delete">Update</a></li></li>
-        </ul>
     </ul>
     <li><a href="#client">Client</a></li>
         <ul>
