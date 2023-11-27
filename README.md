@@ -47,7 +47,7 @@
   O template foi criado em um monorepo e está estruturado em cliente e servidor.
 
 <p align= "center">
-    <img src = "./assets/client-server.png" width="85%" margin-top="20px"/>
+    <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
 </p>
 
 O server tem uma estrutura base de código para a construção de uma API. Já o cliente, contém uma outra estrutura base de código para a construção de todo o frontend da aplicação. 
