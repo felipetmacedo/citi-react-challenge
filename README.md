@@ -29,9 +29,6 @@
     <li><a href="#about-challenge">About Challenge</a></li>
       <ul>
         <li><a href="#challenge">Challenge</a></li></li>
-        <ul>
-          <li><a href="#step-by-step">Step by Step</a></li></li>
-        </ul>
       </ul>
     <li><a href="#client">Client</a></li>
         <ul>
