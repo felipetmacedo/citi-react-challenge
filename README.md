@@ -90,13 +90,6 @@ O design fornecido no Figma representa a estrutura visual da página que queremo
    ```sh
    yarn install
    ```
-
-   ou 
-
-   ```sh
-   npm install
-   ```
-
 <br/> 
 
 ## How To Run Client
@@ -112,13 +105,13 @@ O design fornecido no Figma representa a estrutura visual da página que queremo
 4. Com o terminal aberto, escreva essa sentença abaixo e dê enter
 
    ```sh
-   yarn start
+   yarn build
    ```
 
-   ou 
+   e 
 
    ```sh
-   npm run start
+   yarn start
    ```
 
 3. Espere que o terminal esteja dessa maneira
