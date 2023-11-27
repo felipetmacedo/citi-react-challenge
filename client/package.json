@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-boilerplate",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --project tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@emotion/is-prop-valid": "^1.2.1",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "next": "13.4.17",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sharp": "^0.32.5",
+    "styled-components": "^6.0.7",
+    "styled-media-query": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "@types/react": "^18.2.21",
+    "prettier": "3.0.3",
+    "typescript": "^5.1.6"
+  }
+}

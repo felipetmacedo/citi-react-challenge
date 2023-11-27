@@ -1,0 +1,25 @@
+{
+    "$schema": "https://json.schemastore.org/swcrc",
+    "module": {
+        "type": "commonjs"
+    },
+    "jsc": {
+        "parser": {
+            "syntax": "typescript"
+        },
+        "target": "es2017",
+        "paths": {
+            "@controllers": [
+                "./src/controllers"
+            ],
+            "@repositories": [
+                "./src/repositories/index.ts"
+            ],
+            "@database": [
+                "./src/database"
+            ]
+        },
+        "baseUrl": "./"
+    },
+    "minify": true
+}

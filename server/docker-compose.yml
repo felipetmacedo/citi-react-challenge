@@ -1,0 +1,36 @@
+version: "3"
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: boilerplate-server
+    container_name: ${PROJECT_NAME}-server
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "${SERVER_PORT}:3001"
+    volumes:
+      - .:/home/node/app
+      - node_modules:/home/node/app/node_modules
+    depends_on:
+      - db
+
+  db:
+    image: postgres:16
+    container_name: ${PROJECT_NAME}-db
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - POSTGRES_USER=${DATABASE_USER}
+      - POSTGRES_PASSWORD=${DATABASE_PASSWORD}
+      - POSTGRES_DB=${DATABASE_DB}
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - "${DATABASE_PORT}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
+  node_modules:
