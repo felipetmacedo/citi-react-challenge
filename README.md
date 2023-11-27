@@ -102,7 +102,7 @@ O design fornecido no Figma representa a estrutura visual da página que queremo
 
 3. Vá em terminal e abra o novo terminal 
 
-4. Com o terminal aberto, escreva essa sentença abaixo e dê enter
+4. Com o terminal aberto, escreva as sentenças abaixo e dê enter
 
    ```sh
    yarn build
