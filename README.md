@@ -8,7 +8,7 @@
   <h3 align="center">PTA</h3>
 
   <p align="center">
-  Esse boilerplate foi criado durante o processo seletivo de 2023 do CITi e atualizado em 2023.2 com o intuito de aproximar as pessoas aspirantes à realidade
+  Esse boilerplate foi criado durante o processo seletivo de 2024 do CITi e atualizado em 2024.1 com o intuito de aproximar as pessoas aspirantes à realidade
   dentro do CITi. O boilerplate será usado para o envio de um DESAFIO durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnincamente as pessoas que entrarão no CITi.
     <br />
     <a href="https://github.com/citi-onboarding/pta-boilerplate"><strong>Explore the docs »</strong></a>
@@ -62,7 +62,7 @@ O design fornecido no Figma representa a estrutura visual da página que queremo
 
 ### Step by Step:
 
-1. Curta o repositório 💚 e faça um fork dele.
+1. Coloque uma estrelinha no repositório 💚 e faça um fork dele.
 2. Clone o repositório forked para o seu ambiente local.
 3. Utilize React para construir a página conforme o design do Figma.
 4. Mantenha a estrutura do projeto organizada.
