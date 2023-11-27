@@ -54,7 +54,7 @@
 
 ## Challenge
 Sua missão é construir uma página web em React que reproduza fielmente o design disponível no seguinte link do Figma: 
-<a href="https://www.figma.com/file/BklrSFl01OCseYDol7tDu1/Desafio-React--%E2%9A%9B%EF%B8%8E---CITi?type=design&node-id=101-20&mode=design">
+<a href="https://www.figma.com/file/BklrSFl01OCseYDol7tDu1/Desafio-React--%E2%9A%9B%EF%B8%8E---CITi?type=design&mode=design&t=3YKy0IXKwA9Tdx4P-1">
     Desafio React - CITi
 </a>
 
