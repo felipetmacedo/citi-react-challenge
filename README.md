@@ -60,7 +60,7 @@ Sua missão é construir uma página web em React que reproduza fielmente o desi
 
 O design fornecido no Figma representa a estrutura visual da página que queremos que você construa. Certifique-se de atentar para os detalhes visuais, como cores, fontes, espaçamento e posicionamento dos elementos.
 
-- Passo a Passo
+### Passo a Passo
 
 1. Faça um fork deste repositório.
 2. Clone o repositório forked para o seu ambiente local.
