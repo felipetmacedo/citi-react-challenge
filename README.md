@@ -27,10 +27,14 @@
   <summary><h2 style="display: inline-block">Tabela de Conteúdo</h2></summary>
   <ol>
     <li><a href="#about-boilerplate">About Boilerplate</a></li>
-    <li><a href="#client">Client</a></li>
-        <ul>
+      <ul>
         <li><a href="#how-to-install-client">How To Install Client</a></li></li>
         <li><a href="#how-to-run-client">How To Run Client</a></li></li>
+      </ul>
+    <li><a href="#client">Client</a></li>
+        <ul>
+          <li><a href="#how-to-install-client">How To Install Client</a></li></li>
+          <li><a href="#how-to-run-client">How To Run Client</a></li></li>
         </ul>
     </ul>
     <li><a href="#contact">Contact</a></li>
@@ -49,9 +53,9 @@
     <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
 </p>
 
-## Tarefa
+## Mission
 Sua missão é construir uma página web em React que reproduza fielmente o design disponível no seguinte link do Figma: 
-<a href="https://github.com/citi-onboarding/pta-boilerplate">
+<a href="https://www.figma.com/file/BklrSFl01OCseYDol7tDu1/Desafio-React--%E2%9A%9B%EF%B8%8E---CITi?type=design&node-id=101-20&mode=design">
     Desafio React - CITi
 </a>
 
