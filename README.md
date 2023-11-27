@@ -49,7 +49,16 @@
     <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
 </p>
 
+## Tarefa
+Sua missão é construir uma página web em React que reproduza fielmente o design disponível no seguinte link do Figma: 
+<a href="https://github.com/citi-onboarding/pta-boilerplate">
+    Desafio React - CITi
+</a>
+
+O design fornecido no Figma representa a estrutura visual da página que queremos que você construa. Certifique-se de atentar para os detalhes visuais, como cores, fontes, espaçamento e posicionamento dos elementos.
 <br/> 
+
+
 
 ## Client
 
