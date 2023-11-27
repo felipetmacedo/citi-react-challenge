@@ -42,12 +42,12 @@
 ## About Challenge
 <br/>
 
-    Esse desafio foi criado durante o processo seletivo de 2024 do CITi e ele tem o intuito de aproximar as pessoas aspirantes à realidade
-    dentro do CITi. O boilerplate será usado durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnicamente as pessoas que entrarão no CITi.
+  Esse desafio foi criado durante o processo seletivo de 2024 do CITi e ele tem o intuito de aproximar as pessoas aspirantes à realidade
+  dentro do CITi. O boilerplate será usado durante a última etapa do processo seletivo, a qual tem o objetivo de capacitar tecnicamente as pessoas que entrarão no CITi.
 
-  <p align= "center">
-      <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
-  </p>
+<p align= "center">
+    <img src = "./assets/challenge.png" width="85%" margin-top="20px" border-radius="5px" />
+</p>
 
 <br/> 
 
