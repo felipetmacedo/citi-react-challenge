@@ -29,6 +29,9 @@
     <li><a href="#about-challenge">About Challenge</a></li>
       <ul>
         <li><a href="#challenge">Challenge</a></li></li>
+        <ul>
+          <li><a href="#step-by-step">Step by Step</a></li></li>
+        </ul>
       </ul>
     <li><a href="#client">Client</a></li>
         <ul>
@@ -39,10 +42,10 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
+6. Ao concluir o desafio, faça um pull request para a branch principal do repositório original.
 <br/> 
 
-## About Challenge
+# About Challenge
 <br/>
 
   Esse desafio foi criado durante o processo seletivo de 2024 do CITi e ele tem o intuito de aproximar as pessoas aspirantes à realidade
@@ -60,7 +63,7 @@ Sua missão é construir uma página web em React que reproduza fielmente o desi
 
 O design fornecido no Figma representa a estrutura visual da página que queremos que você construa. Certifique-se de atentar para os detalhes visuais, como cores, fontes, espaçamento e posicionamento dos elementos.
 
-### Passo a Passo
+### Step by Step:
 
 1. Faça um fork deste repositório.
 2. Clone o repositório forked para o seu ambiente local.
