@@ -39,7 +39,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-6. Ao concluir o desafio, faça um pull request para a branch principal do repositório original.
 <br/> 
 
 # About Challenge
