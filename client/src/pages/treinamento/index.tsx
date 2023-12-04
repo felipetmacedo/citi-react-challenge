@@ -2,7 +2,7 @@ export default function Treinamento() {
     const iframeStyle = {
         width: '100%',
         maxWidth: '100%',
-        height: '1080px'
+        height: '1280px'
     };
 
     return (
