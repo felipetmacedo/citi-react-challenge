@@ -15,7 +15,7 @@ export default function Home() {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        marginTop: "50px"
+        marginTop: "60px"
       }}
     >
       <Typography variant="h5">Formulário de login</Typography>
@@ -30,7 +30,7 @@ export default function Home() {
       <Button variant="contained" onClick={handleSubmit}>
         Entrar
       </Button>
-      <Typography>Clicado {cont} vezes</Typography>
+      <Typography marginTop={1}>Clicado {cont} vezes</Typography>
     </Box>
   );
 }

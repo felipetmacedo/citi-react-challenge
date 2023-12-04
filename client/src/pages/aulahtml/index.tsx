@@ -13,10 +13,10 @@ export default function Home() {
       <h2>Formulário de login</h2>
       <input type="text" id="email" placeholder="E-mail" style={{ margin: "8px 0" }}/>
       <input type="password" id="password" placeholder="Senha" style={{ margin: "8px 0" }}/>
-      <button onClick={handleSubmit} style={{ padding: "10px 20px", margin: "8px 0" }}>
+      <button onClick={handleSubmit}>
         Entrar
       </button>
-      <p style={{ marginTop: '10px' }} >Clicado {cont} vezes</p>
+      <p>Clicado {cont} vezes</p>
     </div>
   );
 }
